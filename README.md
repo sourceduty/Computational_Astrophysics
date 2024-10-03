@@ -1,6 +1,6 @@
 ![Computational Astrophysics](https://github.com/user-attachments/assets/0edd8c41-91c1-46cc-9c5e-887db95ade49)
 
-> Develop and simulate mathematical astrophysics models.
+> Develop and simulate math-based astrophysical models.
 
 #
 
